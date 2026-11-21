@@ -8,4 +8,4 @@
 Стартова персоналізована вебсторінка, розроблена для відпрацювання циклу локальної розробки у VS Code із використанням Live Server, налагодження через Chrome DevTools, ведення історії змін у Git та деплою статичних ресурсів на GitHub Pages.
 
 ## Публікація
-- **GitHub Pages:** https://yasuuonx.github.io/Web/git add .gitignore README.md
+- **GitHub Pages:** https://yasuuonx.github.io/Web/
